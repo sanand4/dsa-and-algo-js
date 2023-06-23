@@ -9,3 +9,6 @@ function isPowerOfTwo(n) {
 
   return n === 1;
 }
+console.log(isPowerOfTwo(1)); // Output: true
+console.log(isPowerOfTwo(16)); // Output: true
+console.log(isPowerOfTwo(3)); // Output: false
